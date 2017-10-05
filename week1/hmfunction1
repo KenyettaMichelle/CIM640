@@ -1,0 +1,54 @@
+<DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="description" content="A page for exploring basic HTML documents">
+
+<title> Kenyettas Basic HTML document</title>
+
+</head>
+
+    <body>
+    <h1> Page content</h1>
+    <p>My main page content appears inside the <b>body</b> tag.  HTML contains several elements that allow you to properly structure and format your content.</p>
+    
+   
+    <script>
+    
+    <h3> Puppy age Calculator</h3>
+    {fuction addNumbers (add2, add3)}
+        var addition = add2 + add3 return addition;
+        }
+            
+    <h3> Lifetime Supply Calculator</h3>        
+            
+            var firstAddition = addNumbers(5,7);
+            
+            <h3>Calculate geometry</h3>
+            
+        var secondAddition = mutiplyNumbers(2340,8904);
+        
+        <h3> Temp Converter</h3>
+        console.log(firstAddition);
+        
+        console.log(secondAddition);
+
+    
+</script>
+
+</body>
+
+
+
+</html>
+    
+    
+    
+<figure>
+<link rel="https://github.com/KenyettaMichelle/CIM640">
+
+
+
+
+
+<html>

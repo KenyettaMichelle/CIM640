@@ -1,0 +1,36 @@
+This program is a calculator where four national averages have been taken. A form text input
+can be used for this. The user will enter any number from 150-300. There should be an input box and submit box. 
+The detector will alert the user if the number enter fall in the national average for licks of a tootsie roll.
+If the number the user enters is low or above 150-300.  The user will get back a message stating that 
+whether or not the number enter meets the criteria for national average or does not fall in line with the 
+national average:
+
+
+avg=(num1+num2)/2;
+printf("Average of two numbers = %4.2f", avg);
+return 0;
+}
+<script>
+
+function addNumbers (add150,add300){return add150 +add300}
+function addNumbers (add200,add300){return add200 +add300}
+function addNumbers (add250,add300){return add250 +add300}
+function addNumbers (add300,add300){return add300 +add300}
+
+function divideNumbers (divide450, divide2) {return divide450/divide2}
+function divideNumbers (divide500, divide2) {return divide500/divide2}
+function divideNumbers (divide550, divide2) {return divide550/divide2}
+function divideNumbers (divide600, divide2) {return divide600/divide2}
+
+var firstDivide = (return divide450/divide2);
+var secondDivide = (return divide500/divide2);
+var thirdDivide = (return divide550/divide2);
+var fourthDivide = (return divide600/divide2);
+
+console.log(firstDivide);
+console.log(secondDivide);
+console.log(thirdDivide);
+console.log(fourthDivide);
+
+
+</script>

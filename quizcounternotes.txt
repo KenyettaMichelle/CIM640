@@ -1,0 +1,29 @@
+What state has the highest CO2 Emissions?
+
+Tennessee
+California
+Texas
+Pennsylvania
+
+Happy is as happy does? True/False
+
+
+<label for ="question4"> What state has the highest CO2 Emissions?</label>
+<select name="question4" id="question4" class="question">
+
+<option value="Tennessee">Tennessee</option>
+<option value="California">California</option>
+<option value="Texas">Texas</option>
+<option value="Pennesylvania"</option>
+</select>
+<br>
+<br>
+
+
+<label for="question5">Happy is as happy does?</label>
+<select name="question5" id="question5" class="question">
+<option value="true">true</option>
+<option value="false">false</option>
+</select>
+<br>
+<br>

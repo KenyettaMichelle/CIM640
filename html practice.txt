@@ -1,0 +1,146 @@
+What is a function which is console.log
+they are instructions put together to make it easy to complete a task
+
+
+with any function use it
+camelcase example printMessage
+make function modular
+you have to ask yourself questions all the time
+like message its like math
+name in (name) is a variable
+
+declare your function first and then call it
+like bake the cake first then eat
+
+
+        function addNumbers(add1, add2) {
+            var addition = add1 + add2;
+            return addition;
+        }
+        // functions have to be declared and called.
+        printMessage();
+        sayHello("Zeven");
+        sayHello("Amy");
+        //The message variable is outside of the main programs scope
+        //console.log(message);
+        var firstAddition = addNumbers(1,2);
+        var secondAddition = addNumbers(2347234,256293794);
+        console.log(firstAddition);
+        console.log(secondAddition);
+
+
+button has 3 types button reset and sumbit in side the button type
+<button type+
+
+
+    <button type="button"onclick="sayHello('Kenyetta')">Click Here to say hello</button>
+single and double quotes to create a compound statement
+
+Use forms to grab input from users
+create an interactive calculator
+take in a par or two and print it out in the scripting
+
+Example of function attemping to create an interactive calculator
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>My App</title>
+
+    <style>
+        /* Enter CSS below */
+    </style>
+
+ </head>
+
+
+<body>
+    <!-- HTML Comment -->
+    <h1>My App</h1>
+
+    <p><i>Description goes here</i></p>
+
+    <button type="button" onclick="sayHello('zeven')">Click here to say hello</button>
+
+    <script>
+       /* Comment: Enter code below */
+        //Single line comment
+        var greeting = "goodbye";
+        function printMessage(){
+            console.log("print a message");
+        }
+        function sayHello(name){
+            var message = "Hello " + name + "!";
+            console.log(message);
+        }
+        function sayGreeting(name){
+            var message = greeting + name + "!";
+            console.log(message);
+        }
+        function addNumber(add1,add2){
+            var addition = add1 + add2;
+            console.log(addition);
+        }
+        function addReturn(add1,add2){
+            var addition = add1 + add2;
+            console.log(addition)
+            return addition;
+        }
+        // place functions above
+        printMessage();
+        sayHello("Kenyetta");
+        sayHello("Lena");
+        sayGreeting("Kim");
+        sayGreeting("Zeven");
+        //Message does not exist in this scope
+        //console.log(message);
+        addNumber(1,1);
+        addNumber(123423,23425);
+        console.log(addReturn(12,15));
+        var firstAdd = addReturn(14,4);
+        var secondAdd = addReturn(1,1);
+        var thirdAdd = addReturn(firstAdd, secondAdd);
+        console.log(thirdAdd);
+    </script>
+
+</body>
+
+</html>
+
+
+
+<html>
+<head>	<title> Interactive Calculator </title> <head>
+
+<body>
+<form name=calform>
+<input type=text name=txt1>
+<input type=button
+
+
+<form>
+
+
+
+</body>
+
+
+
+
+</html>
+
+9/5/2017
+As interaction designer...question do I use check box or radio...
+starting to figure out what is the functionality of my program and go through programming...The assignment coming 
+back from the storm over the next week...make a calculator..look up what is a code plan...be able to talk through the program 
+what the user does and what the program will do...like this a program that does this..
+
+how to create a calculator that is fun like...How many licks does it take to get to the center of a 
+tootsie pop...going through all the steps that a user will go through..the goal is the user would have
+already licked the lolly pop...can use a text box to input data...will have to figure out the function
+create a function called lick counter...so have to write code for that ratio is input of person divided by 250 than multiply by 100 to get ratio
+look under code plan
+
+
+for id tag only use one tag
+https//www.w3school.com/tags/tags.asp

@@ -1,0 +1,36 @@
+you can have multiply statements in the else if stament
+
+if the guess is less than the anwers and the guess is greater than 0
+if you use && statement all statements must be true
+
+we have to assume that computers are dumb
+else/if statements are useful because there are conditions
+that will come up
+
+
+Array of numbers0  1   2 
+var Letters= ["a","b","c"]
+
+to get to the letter a always index based
+Letters[0] represents a
+
+use arrays to access information
+
+for homework choose 1 example and modify
+quiz example using select form type which give a form that
+give you drop down menus
+
+helps you limit the choices the user can use with drop down menus
+<select name="question1" id="question1" 
+
+var answers = [
+
+var getResponse = document.getElementsByClassName
+
+if(getResponse[1].value 
+
+types names and values associated 
+var radios are the littel circles 
+
+text adventure
+homework due next thursday cause I still have to do the calculaor...do either the quiz or calculator add 2 more questions and answers.

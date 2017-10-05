@@ -1,0 +1,72 @@
+<html>
+    <head>	<title> Interactive Calculator Code </title> 
+
+<script type="text/javascript">
+    
+    function displynum(n1)
+              
+              
+{calcform.txt1.value = calcform.txt1 + n1;}
+              
+              
+              </script>    
+
+<body>
+<form name=calform>
+    
+        function printMessage(){
+            console.log("print a message");
+        }
+    
+    
+    
+<input type=text name=txt1 style='text-align:right'><br>
+<input type=button name=btn9 value=9 onclick="displynum(btn9.value)">
+
+<input type=button name=btn8 value=8 onclick="displynum(btn8.value)">    
+
+<input type=button name=btn7 value=7 onclick="displynum(btn7.value)">
+    
+    <input type=button name=addbtn value=+ onclick="display(addbtn,value)"><br>
+    
+<input type=button name=btn6 value=6 onclick="displynum(btn6.value)">
+<input type=button name=btn5 value=5 onclick="displynum(btn5.value)">
+<input type=button name=btn4 value=4 onclick="displynum(btn4.value)">
+    
+    <input type=button name=subbtn value=- onclick="displynum(subbtn.value)"><br>
+    
+<input type=button name=btn3 value=3 style="text-align:right"
+<input type=button name=btn2 value=2 onclick="displynum(btn2.value)">
+<input type=button name=btn1 value=1 onclick="displynum(btn1.value)">
+    
+    
+<input type=button name=btnmul value=*onclick=display(btnmul.value><br>
+    
+<input type=button name=btn0 value=0 onclick="displaynum(btn0.value)">
+    
+    
+<input type="button"name=potbtn value=.onclick="displynum(btn4.value)">
+    
+<input type=button name=eqlbtn value==onclick="displynum(btn4.value)">
+    
+<input type=button name=divbtn value=/onclick="displynum(btn4.value)">
+    
+    
+ printMessage();    
+
+
+ 
+       
+       </form>
+
+
+
+</body>
+
+
+
+
+</html>
+
+
+

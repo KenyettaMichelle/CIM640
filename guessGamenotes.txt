@@ -1,0 +1,25 @@
+Adding decisions to your program is the next step
+create guessingGame.html
+
+the var can become an object like a button
+and change characteristics
+get elements allow you to search and become the thing
+in the program are like grabbing objects and equates it to the 
+varible like the zombie you can grab human bite and turns
+into zombie
+
+stack exchange good site for question
+on the if statement us if(guess == 2equals which compares the
+two variable and if the type is the same like a string)
+cause we know about if statement now we're looking at the
+expectations of the user now give more feedback to the user
+default statements work with if statemnt else
+
+
+give an output for code
+below the script and above the form add div
+when to make the decision to give output it happens
+at the action
+
+what if you wnat a compound statement and set conditions for
+your code for the example the guessing game
