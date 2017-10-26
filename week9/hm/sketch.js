@@ -5,6 +5,7 @@ var directionY = false;
 var startButton;
 var startBounce = false;
 
+var linePoints = [0, 0, 400, 0];
 
 
 function setup() {
@@ -28,8 +29,10 @@ startButton.mousePressed(function(){
 }
 
 function draw() {
+
     
-frameRate (60);
+frameRate (80);
+
 background('red');
     
     if (startBounce == true){
